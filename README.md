@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosie-rosebud
+- 👋 Hi, I’m Amelia
 - 👀 I’m interested in javascript very very slowly as part of my Masters course, but mainly I'm working on my Instructional Design and EdTech Coaching skills!
 - 🌱 I’m currently in my first year of the Universite Cote d'Azur MSc Smart EdTech 
 - 💞️ If you're interested in collaborating on anything to do with supporting staff in improving their digital pedagogy, hit me up! 
